@@ -33,12 +33,12 @@
     <td width="50%" valign="top">
       <h4>🌐 AgentiveTech</h4>
       <p>A centralized IT services platform featuring various web utilities and business tools with responsive UI/UX.</p>
-      <a href="https://github.com/Tapabratadchatterjee/BUSINESS_WEBSITE"><b>View Repo →</b></a>
+      <a href="https://github.com/Tapabratadchatterjee/BUSINESS_WEBSITE"><b>Live Site →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Docubrain</h4>
       <p>An AI-driven backend system for document analysis, focusing on scalable architecture and vector databases.</p>
-      <a href="https://github.com/Tapabratadchatterjee/docubrain-backend"><b>View Repo →</b></a>
+      <a href="https://agentivetech.in"><b>View Repo →</b></a>
     </td>
   </tr>
   <tr>
