@@ -1,5 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Tapabrata+Chatterjee;Full+Stack+MERN+Developer;AI+%26+Automation+Enthusiast;Final+Year+B.E.+at+JIIT+Noida" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=007ACC&center=true&vCenter=true&width=500&lines=Tapabrata+Chatterjee;Full+Stack+MERN+Developer;AI+%26+Automation+Enthusiast;Final+Year+B.E.+at+JIIT+Noida" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://tapabrata.in" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Website-tapabrata.in-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
 ---
@@ -54,16 +60,16 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapabratadchatterjee&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapabratadchatterjee&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tapabratadchatterjee&show_icons=true&theme=oceanic-next&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapabratadchatterjee&layout=compact&theme=oceanic-next&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 Key Achievements
-* **Published Poet:** Authored a Bengali poem published at the Kolkata Book Fair.
-* **Web Internships:** Completed intensive programs with **Teachnook** and **Prodigy Infotech**.
-***Academic Record:** Final year B.E. student at **JIIT Noida** (Class of 2026).
+* **Published Poet**: Authored a Bengali poem published at the Kolkata Book Fair.
+* **Web Internships**: Completed intensive programs with **Teachnook** and **Prodigy Infotech**.
+* **Academic Record**: Final year B.E. student at **JIIT Noida** (Class of 2026).
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tapabrata-chatterjee-26627727b/">
