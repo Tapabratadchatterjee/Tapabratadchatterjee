@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38B2AC&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Tapabrata+Chatterjee;MERN+Stack+Developer;AI+Enthusiast;Final+Year+ECE+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Tapabrata+Chatterjee;MERN+Stack+Developer;AI+Enthusiast;Final+Year+ECE+Student" alt="Typing SVG" />
 </p>
 
 ---
@@ -13,37 +13,37 @@
 
 | Area | Technologies |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white) |
-| **Languages** | ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/-React-23272e?logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/-Tailwind-23272e?logo=tailwind-css&logoColor=38B2AC) ![HTML5](https://img.shields.io/badge/-HTML5-23272e?logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/-CSS3-23272e?logo=css3&logoColor=1572B6) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/-Node.js-23272e?logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/-Express-23272e?logo=express&logoColor=white) ![PHP](https://img.shields.io/badge/-PHP-23272e?logo=php&logoColor=777BB4) |
+| **Languages** | ![C++](https://img.shields.io/badge/-C%2B%2B-23272e?logo=c%2B%2B&logoColor=00599C) ![JavaScript](https://img.shields.io/badge/-JavaScript-23272e?logo=javascript&logoColor=F7DF1E) ![Dart](https://img.shields.io/badge/-Dart-23272e?logo=dart&logoColor=0175C2) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/-MongoDB-23272e?logo=mongodb&logoColor=47A248) |
 
 ---
 
-### 📂 Top Repositories & Projects
+### 📂 Featured Repositories
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
       <h4>🌐 AgentiveTech</h4>
-      <p>IT services platform with responsive UI/UX and web utilities.</p>
+      [cite_start]<p>IT services platform featuring various web utilities and business tools[cite: 27, 28].</p>
       <a href="https://github.com/Tapabratadchatterjee/BUSINESS_WEBSITE"><b>View Repo →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Docubrain</h4>
-      <p>AI-driven backend for document analysis and vector processing.</p>
+      <p>AI-driven system for document analysis utilizing vector databases.</p>
       <a href="https://github.com/Tapabratadchatterjee/docubrain-backend"><b>View Repo →</b></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h4>💼 MERN Portfolio</h4>
-      <p>Comprehensive showcase of full-stack projects and secure auth.</p>
+      [cite_start]<p>Full-stack ERP system with automated rent tracking and secure auth[cite: 17, 19, 21].</p>
       <a href="https://github.com/Tapabratadchatterjee/mern-portfolio"><b>View Repo →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🔍 JobShikhar</h4>
-      <p>High-traffic portal optimized for SEO and Google AdSense.</p>
+      [cite_start]<p>Job notification portal optimized for search engine indexing[cite: 22, 26].</p>
       <a href="https://jobshikhar.in"><b>Live Site →</b></a>
     </td>
   </tr>
@@ -54,19 +54,19 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapabratadchatterjee&show_icons=true&theme=radical&rank_icon=github" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapabratadchatterjee&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Tapabratadchatterjee&show_icons=true&theme=tokyonight&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapabratadchatterjee&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
 </p>
 
 ---
 
 ### 🏆 Achievements
-* **Published Poet:** Authored a Bengali poem for the Kolkata Book Fair. 
-* **Certified Developer:** Advanced Web Dev certifications via **Teachnook** and **Prodigy Infotech**. 
-***JIIT Noida:** Maintaining a strong academic record in ECE (Class of 2026). 
+* **Published Poet:** Authored a Bengali poem featured at the Kolkata Book Fair.
+* **Web Internships:** Completed programs with **Teachnook** and **Prodigy Infotech**.
+* **Academic Record:** Secured 90.4% in Higher Secondary Education.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/tapabrata-chatterjee-26627727b/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
