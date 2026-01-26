@@ -35,7 +35,7 @@
     <td width="50%" valign="top">
       <h4>🌐 AgentiveTech</h4>
       <p>A centralized IT services platform featuring various web utilities and business tools with responsive UI/UX.</p>
-      <a href="https://github.com/Tapabratadchatterjee/BUSINESS_WEBSITE"><b>View Repo →</b></a>
+      <a href="https://agentivetech.in"><b>Live site →</b></a>
     </td>
     <td width="50%" valign="top">
       <h4>🧠 Docubrain</h4>
