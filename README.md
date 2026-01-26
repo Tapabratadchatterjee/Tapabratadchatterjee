@@ -62,8 +62,8 @@
 ### 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tapabratadchatterjee&show_icons=true&theme=oceanic-next&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tapabratadchatterjee&layout=compact&theme=oceanic-next&border_radius=10&hide=html,css" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tapabratadchatterjee&show_icons=true&theme=oceanic-next&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tapabratadchatterjee&layout=compact&theme=oceanic-next&border_radius=10&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
